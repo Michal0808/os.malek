@@ -1,2 +1,0 @@
-Michal Málek
-GitHub
